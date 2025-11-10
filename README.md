@@ -21,4 +21,11 @@ Highlights:
 - Temporal trend analysis (daily/hourly patterns)
 - Interactive dashboard for key metrics
 
-More projects coming soon...
+#### 2. Flight Diversion Prediction
+An analytical project using machine learning to predict U.S. flight diversions, aiming to minimize operational disruptions, optimize resource allocation, and reduce associated costs for airlines and airports.
+
+**Key Technologies:** Google BigQuery, SQL, Python (google-cloud-bigquery, pandas), BigQuery ML
+Highlights:
+- Development of baseline, engineered, localized, and cost-optimized ML models
+- Identification of an optimal cost-based decision threshold
+- Significant recall improvements through feature engineering and subgroup specialization
