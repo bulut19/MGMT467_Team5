@@ -1,4 +1,4 @@
-##Xinyi Zhang
+**Xinyi Zhang**
 
 **Project Contributions**
 
@@ -12,7 +12,7 @@ One key highlight of my contribution was my ability to translate a complex real-
 
 This project strengthened my understanding of end-to-end analytics workflows, especially the reality that models often evolve, get replaced, or are improved through team collaboration. I learned that early-stage modeling is still highly valuable, even if it does not appear in the final deliverable, because it shapes direction, uncovers data limitations, and informs better decisions later in the project. Additionally, the experience reinforced the importance of communication and adaptability in team-based analytics projects. Being open to changes, supporting teammates, and prioritizing the overall project outcome over individual ownership were critical to our success. Overall, this project deepened my technical skills in predictive modeling while also enhancing my ability to contribute strategically to team-based, real-world data science initiatives.
 
-##Melisa Bulut
+**Melisa Bulut**
 
 **Project Contributions**
 
