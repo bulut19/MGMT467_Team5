@@ -25,3 +25,7 @@ Transitioning from linear regression to Gradient Boosted Trees showed how choosi
 **Learning Outcomes**
 
 This project taught me that model development is iterative. The first approach often isn't the best—testing alternatives and learning from failures drives better decisions. I also learned that technical work and clear communication are equally important. A good model that stakeholders don't understand has limited value. Every technical decision should align with what users actually need. This experience strengthened my ability to work on complex projects while keeping the end-user impact in focus.
+
+**Gabriel Wang**
+
+My technical contributions focused on ensuring data integrity and operationalizing the machine learning model. I developed a Python Cloud Function to manage the API data extraction and publishing process, while also configuring a Dataflow job for reliable streaming into BigQuery. During the deployment phase, I identified and resolved critical schema validation errors that were routing data to error tables, creating a fix for missing ingestion timestamps. To bridge the gap between live data availability and the model's historical training features, I engineered complex SQL queries that implemented persistence logic, allowing the Boosted Tree Regressor to output dynamic, realistic risk assessments based on immediate weather changes. This work culminated in a live Looker Studio dashboard that empowers stakeholders to visualize fire risk trends and predicted severity instantly.
